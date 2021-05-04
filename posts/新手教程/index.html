@@ -142,6 +142,8 @@
 </ul>
 <p>上传图片查看github仓库是否有记录</p>
 <h2 id="配置typorapicgo">配置Typora+PicGo</h2>
+<p><a href="https://typora.io/#windows">Typora</a></p>
+<p>下载安装Typora</p>
 <p>打开Typora
 左上角 文件-&gt;偏好设置-&gt;图像</p>
 <p><img src="https://raw.githubusercontent.com/bafeimao/Picture/main/img/image-20210504122103433.png" alt="image-20210504122103433"></p>
@@ -278,6 +280,18 @@ git config --global --unset https.proxy
 <p><img src="https://raw.githubusercontent.com/bafeimao/Picture/main/img/image-20210504173736887.png" alt="image-20210504173736887"></p>
 <p>键入hugo会构建内容生成一个public文件夹可以进去查看我们使用ls然后cd进去</p>
 <p><img src="https://raw.githubusercontent.com/bafeimao/Picture/main/img/image-20210504173854310.png" alt="image-20210504173854310"></p>
+<p>键入以下命令</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">git init
+git .
+git commit -m&#39;test&#39;
+</code></pre></div><p>然后键入下面一行命令,是一行。</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">git remote add blog git@github.com:bafeimao/bafeimao.github.io.git
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">git pull  blog main --allow-unrelated-histories
+</code></pre></div><p><img src="https://raw.githubusercontent.com/bafeimao/Picture/main/img/image-20210504175835597.png" alt="image-20210504175835597"></p>
+<p>键入yes</p>
+<p><img src="https://raw.githubusercontent.com/bafeimao/Picture/main/img/image-20210504180144244.png" alt="image-20210504180144244"></p>
+<p>上传成功，可以在仓库里看到新增的文件</p>
+<p><img src="https://raw.githubusercontent.com/bafeimao/Picture/main/img/image-20210504180232117.png" alt="image-20210504180232117"></p>
 </div>
                     <div class="post_footer">
                         

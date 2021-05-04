@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芭菲猫的博客</title>
+    <link>https://bafeimao.github.io/</link>
+    <description>Recent content on 芭菲猫的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 May 2021 11:46:16 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从零开始搭建GitHub&#43;HuGo&#43;PicGo图床教程</title>
+      <link>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</guid>
+      <description>安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装 下载完成后打开exe文件安装，选择全部用户和单独安装都可以，下一步直到安装结束 打开PicGo显示如</description>
+    </item>
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://bafeimao.github.io/posts/helloworld/</link>
+      <pubDate>Tue, 04 May 2021 08:25:02 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/helloworld/</guid>
+      <description>HelloWorld 记录自己的第一篇博客成功搭建</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://bafeimao.github.io/about/</link>
+      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/about/</guid>
+      <description>Hugo 官方主页: https://gohugo.io/ Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，自己编译。由于各种不可预料的网络问题，第二种方式不</description>
+    </item>
+    
+  </channel>
+</rss>

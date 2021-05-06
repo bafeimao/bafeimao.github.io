@@ -6,14 +6,32 @@
     <description>Recent content on 芭菲猫的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 May 2021 11:46:16 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 15:04:54 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQLNote</title>
+      <link>https://bafeimao.github.io/posts/sqlnote/</link>
+      <pubDate>Thu, 06 May 2021 15:04:54 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/sqlnote/</guid>
+      <description>这个文章是根据极客时间SQL必知必会课程所做的笔记，供自己复习使用，冲冲冲！ SQL语言按照功能划分成以下的四个部分： DDL，英文叫做 Data Definition Language，也就是数据定义语言，它用来定义我们的数据库对象</description>
+    </item>
+    
+    <item>
+      <title>SpringInAction</title>
+      <link>https://bafeimao.github.io/posts/springinaction/</link>
+      <pubDate>Thu, 06 May 2021 10:49:46 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/springinaction/</guid>
+      <description>记录自己的SpringInAction 第三章JPA例子踩坑及解决， 废话少说上图，方便以后自己查错复习 找了半天是自己的注解@ID不正确，包导错了，蛮憨批的一个错误，增加了自己阅读错误日志的经验一丢丢</description>
+    </item>
+    
     <item>
       <title>从零开始搭建GitHub&#43;HuGo&#43;PicGo图床教程</title>
       <link>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
       <guid>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</guid>
-      <description>安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装 下载完成后打开exe文件安装，选择全部用户和单独安装都可以，下一步直到安装结束 打开PicGo显示如</description>
+      <description>[toc] 安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装 下载.exe结尾的文件，这里是PicGo-Setup-2.2.2.exe 安装后可能会提示更新，但</description>
     </item>
     
     <item>

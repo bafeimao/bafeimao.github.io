@@ -8,11 +8,11 @@
 	
 	
 	
-	<title>Posts ｜ 芭菲猫的博客</title>
+	<title>LinuxAction ｜ 芭菲猫的博客</title>
 	
     
     
-    <meta name="description" content="Hugo theme zozo example site." />
+    <meta name="description" content="Vim正常模式命令 i 插入 I 插入（位置在行首） a 插入（光标位置的后面） A 插入（位置在行摸） o 插入（位置在当前行的下一行，类似于回车） O 插入（位置在当前行的上一行） HJKL HL向左向右 JK向上向下 yy 复制一整行 3" />
     
 
     
@@ -21,8 +21,6 @@
     
 
 	
-	<link rel="alternate" type="application/rss+xml" href="https://bafeimao.github.io/posts/index.xml" title="芭菲猫的博客" />
-    
     
     <link rel="shortcut icon" href="https://bafeimao.github.io/images/favicon.ico" />
 
@@ -92,53 +90,92 @@
     </div>
 </div>
         <div class="content">
-            <div class="list_with_title">
-                
-                <div class="listing_title">2021</div>
-                <div class="listing">
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/linuxaction/">LinuxAction</a>
-                            <div class="post_time"><span class="date">05-11</span></div>
-                        </div>
+            <div class="post_page">
+                <div class="post animate__animated animate__fadeInDown">
+                    <div class="post_title post_detail_title">
+                        <h2><a href='/posts/linuxaction/'>LinuxAction</a></h2>
+                        <span class="date">2021.05.11</span>
                     </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/sqlnote/">SQLNote</a>
-                            <div class="post_time"><span class="date">05-06</span></div>
+                    <div class="post_content markdown"><h2 id="vim正常模式命令">Vim正常模式命令</h2>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">i	插入
+I	插入（位置在行首）
+a	插入（光标位置的后面）
+A	插入（位置在行摸）
+o	插入（位置在当前行的下一行，类似于回车）
+O	插入（位置在当前行的上一行）
+HJKL	HL向左向右	JK向上向下
+yy	复制一整行 3yy复制当前位置下三行	p粘贴
+y$	复制当前位置到结尾
+dd	剪切一整行 
+d$	剪切当前位置到结尾
+u	撤销操作可以多次撤销
+Ctrl+r	重做（取消撤销）
+x	单个字符删除
+:set nu	显示行数
+:set nonu	取消显示行号
+11G	移动到11行
+g文本第一行	G文本最后一行
+^	行首	$	行末
+</code></pre></div><h2 id="vim的命令模式">Vim的命令模式</h2>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">:w /root/a.txt	保存到此目录下
+:q!	不保存退出
+:!ifcfg	临时查看ip地址
+/x	查找字符x	n查找下一个	N查找上一个
+:%s/old/new/g	替换	s是针对光标一行，%s是整个文档  /g global全局多次替换（一次替换不用加g，多次替换要加）
+</code></pre></div><h2 id="vim的可视模式">vim的可视模式</h2>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">v	字符可视模式
+V	行可视模式
+Ctrl+v	块可视模式
+</code></pre></div><h2 id="用户管理常用命令">用户管理常用命令</h2>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">useradd	新建用户
+userdel	删除用户
+passwd	修改用户密码
+usermod	修改用户属性
+chage	修改用户属性
+</code></pre></div></div>
+                    <div class="post_footer">
+                        
+                        <div class="meta">
+                            <div class="info">
+                                <span class="field tags">
+                                    <i class="ri-stack-line"></i>
+                                    
+                                    <a href="https://bafeimao.github.io/tags/linux/">Linux</a>
+                                    
+                                    <a href="https://bafeimao.github.io/tags/learn/">Learn</a>
+                                    
+                                </span>
+                            </div>
                         </div>
+                        
                     </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/springinaction/">SpringInAction</a>
-                            <div class="post_time"><span class="date">05-06</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/">从零开始搭建GitHub&#43;HuGo&#43;PicGo图床教程</a>
-                            <div class="post_time"><span class="date">05-04</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/helloworld/">HelloWorld</a>
-                            <div class="post_time"><span class="date">05-04</span></div>
-                        </div>
-                    </div>
-                    
                 </div>
                 
+                
+                
+<div class="doc_comments">
+    <div class="comments_block_title">发表评论</div>
+    <div id="vcomments"></div>
+</div>
+
+<link rel="stylesheet" href="https://bafeimao.github.io/css/comments.css" />
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+<script type="text/javascript">
+    new Valine({
+        el: '#vcomments',
+        appId: 'UcKVMLv5ooasANE9mh8XerYE-gzGzoHsz',
+        appKey: 'reu9T0CJMFl0bQ5SIqvP3wNl',
+        placeholder: '开始你的第一个评论吧 ',
+        visitor: 'true',
+    })
+</script>
+                
             </div>
-            <div class="pagination"></div>
         </div>
-        <a id="back_to_top" href="#" class="back_to_top"><i class="ri-arrow-up-s-line"></i></a>
     </div>
+    <a id="back_to_top" href="#" class="back_to_top"><i class="ri-arrow-up-s-line"></i></a>
     <footer class="footer">
     <div class="powered_by">
         <a href="https://varkai.com">Designed by VarKai,</a>

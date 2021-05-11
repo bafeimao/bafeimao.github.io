@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 芭菲猫的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 May 2021 15:04:54 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 09:58:43 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LinuxAction</title>
+      <link>https://bafeimao.github.io/posts/linuxaction/</link>
+      <pubDate>Tue, 11 May 2021 09:58:43 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/linuxaction/</guid>
+      <description>Vim正常模式命令 i 插入 I 插入（位置在行首） a 插入（光标位置的后面） A 插入（位置在行摸） o 插入（位置在当前行的下一行，类似于回车） O 插入（位置在当前行的上一行） HJKL HL向左向右 JK向上向下 yy 复制一整行 3</description>
+    </item>
+    
     <item>
       <title>SQLNote</title>
       <link>https://bafeimao.github.io/posts/sqlnote/</link>

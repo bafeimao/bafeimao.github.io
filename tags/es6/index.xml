@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES6 on 芭菲猫的博客</title>
+    <link>https://bafeimao.github.io/tags/es6/</link>
+    <description>Recent content in ES6 on 芭菲猫的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 May 2021 20:09:25 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/es6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScriptES6新特性</title>
+      <link>https://bafeimao.github.io/posts/javascriptes6%E6%96%B0%E7%89%B9%E6%80%A7/</link>
+      <pubDate>Sat, 15 May 2021 20:09:25 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/javascriptes6%E6%96%B0%E7%89%B9%E6%80%A7/</guid>
+      <description>let和const命令 { let a=1; //let声明只在循环体内有效 var b =1; }</description>
+    </item>
+    
+  </channel>
+</rss>

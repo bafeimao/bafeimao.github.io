@@ -6,7 +6,34 @@
     <description>Recent content on 芭菲猫的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 May 2021 09:58:43 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2021 08:37:58 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChallengeARTX1</title>
+      <link>https://bafeimao.github.io/posts/challengeartx1/</link>
+      <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/challengeartx1/</guid>
+      <description>MDN练习随机生成笑话机以下是实现 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge,chrome=1&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width&amp;#34;&amp;gt; &amp;lt;title&amp;gt;笑话机&amp;lt;/title&amp;gt; &amp;lt;script src=&amp;#34;main.js&amp;#34; defer&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link href=&amp;#34;style.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;customname&amp;#34;&amp;gt;输入自</description>
+    </item>
+    
+    <item>
+      <title>JavaScriptES6新特性</title>
+      <link>https://bafeimao.github.io/posts/javascriptes6%E6%96%B0%E7%89%B9%E6%80%A7/</link>
+      <pubDate>Sat, 15 May 2021 20:09:25 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/javascriptes6%E6%96%B0%E7%89%B9%E6%80%A7/</guid>
+      <description>let和const命令 { let a=1; //let声明只在循环体内有效 var b =1; }</description>
+    </item>
+    
+    <item>
+      <title>宜搭</title>
+      <link>https://bafeimao.github.io/posts/%E5%AE%9C%E6%90%AD/</link>
+      <pubDate>Sat, 15 May 2021 08:06:34 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/%E5%AE%9C%E6%90%AD/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>LinuxAction</title>
       <link>https://bafeimao.github.io/posts/linuxaction/</link>

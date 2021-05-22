@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS on 芭菲猫的博客</title>
+    <link>https://bafeimao.github.io/tags/js/</link>
+    <description>Recent content in JS on 芭菲猫的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 May 2021 08:37:58 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChallengeARTX1</title>
+      <link>https://bafeimao.github.io/posts/challengeartx1/</link>
+      <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/challengeartx1/</guid>
+      <description>MDN练习随机生成笑话机以下是实现 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge,chrome=1&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width&amp;#34;&amp;gt; &amp;lt;title&amp;gt;笑话机&amp;lt;/title&amp;gt; &amp;lt;script src=&amp;#34;main.js&amp;#34; defer&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link href=&amp;#34;style.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;customname&amp;#34;&amp;gt;输入自</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 芭菲猫的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 May 2021 19:56:52 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 20:54:46 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7月6spring</title>
+      <link>https://bafeimao.github.io/posts/description/</link>
+      <pubDate>Tue, 06 Jul 2021 20:54:46 +0800</pubDate>
+      
+      <guid>https://bafeimao.github.io/posts/description/</guid>
+      <description>记录一次spring运行bug， 找了半天以为是自己代码有问题，到最后jps发现被占用了 解决方式是关闭掉所有运行的java程序命令是 taskkill /F /IM java.exe 然后就可以正常使用Idea运行程序了</description>
+    </item>
+    
     <item>
       <title>随笔1</title>
       <link>https://bafeimao.github.io/posts/%E9%9A%8F%E7%AC%941/</link>

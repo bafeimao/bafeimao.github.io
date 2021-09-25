@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bafeimao.github.io/posts/</loc>
+    <lastmod>2021-09-25T19:37:59+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/posts/sqltips/</loc>
+    <lastmod>2021-09-25T19:37:59+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/</loc>
+    <lastmod>2021-09-25T19:37:59+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/posts/javascript_and_java_cookyourlasagna/</loc>
+    <lastmod>2021-09-12T08:19:37+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/posts/javascript_and_java_helloworld/</loc>
+    <lastmod>2021-09-12T08:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/posts/0910%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-09-10T19:10:43+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/posts/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95token%E4%B8%8Ejwt%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2021-07-25T12:25:34+08:00</lastmod>
+  </url><url>
     <loc>https://bafeimao.github.io/posts/0722/</loc>
     <lastmod>2021-07-22T20:41:53+08:00</lastmod>
   </url><url>
-    <loc>https://bafeimao.github.io/posts/</loc>
-    <lastmod>2021-07-22T20:41:53+08:00</lastmod>
-  </url><url>
     <loc>https://bafeimao.github.io/tags/</loc>
-    <lastmod>2021-07-22T20:41:53+08:00</lastmod>
-  </url><url>
-    <loc>https://bafeimao.github.io/</loc>
     <lastmod>2021-07-22T20:41:53+08:00</lastmod>
   </url><url>
     <loc>https://bafeimao.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>

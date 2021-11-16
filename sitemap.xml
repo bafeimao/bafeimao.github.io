@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bafeimao.github.io/posts/</loc>
-    <lastmod>2021-09-25T19:37:59+08:00</lastmod>
+    <loc>https://bafeimao.github.io/posts/11-16%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-11-16T21:08:32+08:00</lastmod>
   </url><url>
-    <loc>https://bafeimao.github.io/posts/sqltips/</loc>
-    <lastmod>2021-09-25T19:37:59+08:00</lastmod>
+    <loc>https://bafeimao.github.io/posts/</loc>
+    <lastmod>2021-11-16T21:08:32+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/tags/</loc>
+    <lastmod>2021-11-16T21:08:32+08:00</lastmod>
   </url><url>
     <loc>https://bafeimao.github.io/</loc>
+    <lastmod>2021-11-16T21:08:32+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2021-11-16T21:08:32+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-11-16T21:08:32+08:00</lastmod>
+  </url><url>
+    <loc>https://bafeimao.github.io/posts/sqltips/</loc>
     <lastmod>2021-09-25T19:37:59+08:00</lastmod>
   </url><url>
     <loc>https://bafeimao.github.io/posts/javascript_and_java_cookyourlasagna/</loc>
@@ -24,12 +36,6 @@
     <lastmod>2021-07-25T12:25:34+08:00</lastmod>
   </url><url>
     <loc>https://bafeimao.github.io/posts/0722/</loc>
-    <lastmod>2021-07-22T20:41:53+08:00</lastmod>
-  </url><url>
-    <loc>https://bafeimao.github.io/tags/</loc>
-    <lastmod>2021-07-22T20:41:53+08:00</lastmod>
-  </url><url>
-    <loc>https://bafeimao.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-07-22T20:41:53+08:00</lastmod>
   </url><url>
     <loc>https://bafeimao.github.io/posts/description/</loc>

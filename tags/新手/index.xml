@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>新手 on 芭菲猫的博客</title>
-    <link>https://bafeimao.github.io/tags/%E6%96%B0%E6%89%8B/</link>
-    <description>Recent content in 新手 on 芭菲猫的博客</description>
+    <title>新手 on 芭菲猫</title>
+    <link>https://vikingyou.club/tags/%E6%96%B0%E6%89%8B/</link>
+    <description>Recent content in 新手 on 芭菲猫</description>
+    <image>
+      <url>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 04 May 2021 11:46:16 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/%E6%96%B0%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 11:46:16 +0800</lastBuildDate><atom:link href="https://vikingyou.club/tags/%E6%96%B0%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从零开始搭建GitHub&#43;HuGo&#43;PicGo图床教程</title>
-      <link>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</link>
+      <link>https://vikingyou.club/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</guid>
-      <description>[toc] 安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装 下载.exe结尾的文件，这里是PicGo-Setup-2.2.2.exe 安装后可能会提示更新，但</description>
+      <guid>https://vikingyou.club/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</guid>
+      <description>[toc]
+安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装
+下载.exe结尾的文件，这里是PicGo-Setup-2.2.2.exe
+安装后可能会提示更新，但因为是beta版所以我们选择不更新
+下载完成后打开exe文件安装，选择全部用户和单独安装都可以，下一步直到安装结束
+打开PicGo显示如下界面
+创建Github账号 打开网址 教程网址 如图所示操作
+起的名字就是网址地址例如我的是bafeimao则网址地址是bafeimao.github.io以此类推
+创建仓库
+然后在github个人设置页面，创建一个访问令牌
+需要输入密码则输入密码
+只勾选第一个repo拉到最下面
+点击Generate new token按照下图配置创建即可。
+保存生成的密钥
+配置PicGo 第一个是用户名/仓库名
+第二个是分支名，一般默认设置为main
+第三个是Token，就是刚刚拿到的密钥
+后面两个可写可不写，建议存储路径写一个，把图片放到一个地方。
+点击“确定”，并设置为“默认图床”
+上传图片查看github仓库是否有记录
+配置Typora+PicGo Typora
+下载安装Typora
+打开Typora 左上角 文件-&amp;gt;偏好设置-&amp;gt;图像
+需要勾上插入时自动转义图片URL！
+建议都不要勾选，根据使用情况发现手动上传好用一点emmm，可能过段时间就好了。
+使用 设置完成后，就可以很方便地使用了。 拖拽，在文件夹内拖拽图片到Typora编辑界面。 插入，快捷键Ctrl+Shift+I，调出插入图片的功能。 复制，使用截图功能后，直接粘贴到Typora编辑界面内。 拖拽和插入都是自动将图片上传至图床。但是复制需要手动点击上传 安装WindowsTerminal 打开Microsoft Store,搜索terminal并安装
+启动后在任务栏右键选择固定到任务栏，以后会常用到，然后关闭窗口右键选择使用管理员模式打开
+Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy RemoteSigned -Force 复制粘贴后回车执行
+然后是下一条命令
+Install-Module posh-git -Scope CurrentUser -AllowPrerelease -Force 键入后回车
+如果报红出错则键入这个命令再键入上一条命令
+Install-Module PowerShellGet -Force -SkipPublisherCheck 之后是下面两条命令配置每次打开终端执行导入git
+Import-Module posh-git Add-PoshGitToProfile -AllHosts 使用命令</description>
     </item>
     
   </channel>

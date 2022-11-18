@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>记录 on 芭菲猫的博客</title>
-    <link>https://bafeimao.github.io/tags/%E8%AE%B0%E5%BD%95/</link>
-    <description>Recent content in 记录 on 芭菲猫的博客</description>
+    <title>记录 on 芭菲猫</title>
+    <link>https://vikingyou.club/tags/%E8%AE%B0%E5%BD%95/</link>
+    <description>Recent content in 记录 on 芭菲猫</description>
+    <image>
+      <url>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Nov 2021 21:08:32 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 21:08:32 +0800</lastBuildDate><atom:link href="https://vikingyou.club/tags/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>11 16随笔</title>
-      <link>https://bafeimao.github.io/posts/11-16%E9%9A%8F%E7%AC%94/</link>
+      <link>https://vikingyou.club/posts/11-16%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Tue, 16 Nov 2021 21:08:32 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/11-16%E9%9A%8F%E7%AC%94/</guid>
-      <description>11月16随笔 哇，贼开心，刚刚洗澡时候才发现自己因为半个多月的折磨技术能力有了提升，可以着手尝试之前想入手但是不知从何下手学习的项目了，才反应过来，半个多月的疲惫加折磨都让我忘记了这回事，可以排计划学</description>
+      <guid>https://vikingyou.club/posts/11-16%E9%9A%8F%E7%AC%94/</guid>
+      <description>11月16随笔 哇，贼开心，刚刚洗澡时候才发现自己因为半个多月的折磨技术能力有了提升，可以着手尝试之前想入手但是不知从何下手学习的项目了，才反应过来，半个多月的疲惫加折磨都让我忘记了这回事，可以排计划学习了，太棒了，从0到1的过程虽然很难熬，但是总算是入了个门，加油加油加油，这是最近半年让我最开心的事了，自己终于有能力做自己半年前不能做的事情了，加油。借着这个喜悦记下这个随笔，然后立个flag，今年结束之前把哪个项目学习完毕，自己实现一遍。巩固自己的技术。果然工作后提升自己只能自己去挤时间了，加油加油加油。我一定能做到自己现在看起来做不到的事情，然后抹消掉这个flag，再立另一个flag。</description>
     </item>
     
   </channel>

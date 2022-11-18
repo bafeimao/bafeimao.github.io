@@ -1,162 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on 芭菲猫的博客</title>
-    <link>https://bafeimao.github.io/tags/</link>
-    <description>Recent content in Tags on 芭菲猫的博客</description>
+    <title>Tags on 芭菲猫</title>
+    <link>https://vikingyou.club/tags/</link>
+    <description>Recent content in Tags on 芭菲猫</description>
+    <image>
+      <url>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Nov 2021 21:08:32 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 21:08:32 +0800</lastBuildDate><atom:link href="https://vikingyou.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记录</title>
-      <link>https://bafeimao.github.io/tags/%E8%AE%B0%E5%BD%95/</link>
+      <link>https://vikingyou.club/tags/%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Tue, 16 Nov 2021 21:08:32 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/%E8%AE%B0%E5%BD%95/</guid>
+      <guid>https://vikingyou.club/tags/%E8%AE%B0%E5%BD%95/</guid>
       <description></description>
     </item>
     
     <item>
       <title>随笔</title>
-      <link>https://bafeimao.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+      <link>https://vikingyou.club/tags/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Tue, 16 Nov 2021 21:08:32 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>https://vikingyou.club/tags/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARTX</title>
-      <link>https://bafeimao.github.io/tags/artx/</link>
+      <link>https://vikingyou.club/tags/artx/</link>
       <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/artx/</guid>
+      <guid>https://vikingyou.club/tags/artx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://bafeimao.github.io/tags/html/</link>
+      <link>https://vikingyou.club/tags/html/</link>
       <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/html/</guid>
+      <guid>https://vikingyou.club/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JS</title>
-      <link>https://bafeimao.github.io/tags/js/</link>
+      <link>https://vikingyou.club/tags/js/</link>
       <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ES6</title>
-      <link>https://bafeimao.github.io/tags/es6/</link>
-      <pubDate>Sat, 15 May 2021 20:09:25 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/tags/es6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://bafeimao.github.io/tags/javascript/</link>
-      <pubDate>Sat, 15 May 2021 20:09:25 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/tags/javascript/</guid>
+      <guid>https://vikingyou.club/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn</title>
-      <link>https://bafeimao.github.io/tags/learn/</link>
+      <link>https://vikingyou.club/tags/learn/</link>
       <pubDate>Tue, 11 May 2021 09:58:43 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/learn/</guid>
+      <guid>https://vikingyou.club/tags/learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://bafeimao.github.io/tags/linux/</link>
+      <link>https://vikingyou.club/tags/linux/</link>
       <pubDate>Tue, 11 May 2021 09:58:43 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL学习</title>
-      <link>https://bafeimao.github.io/tags/sql%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Thu, 06 May 2021 15:04:54 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/tags/sql%E5%AD%A6%E4%B9%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SpringBoot</title>
-      <link>https://bafeimao.github.io/tags/springboot/</link>
-      <pubDate>Thu, 06 May 2021 10:49:46 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/tags/springboot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>踩坑</title>
-      <link>https://bafeimao.github.io/tags/%E8%B8%A9%E5%9D%91/</link>
-      <pubDate>Thu, 06 May 2021 10:49:46 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/tags/%E8%B8%A9%E5%9D%91/</guid>
+      <guid>https://vikingyou.club/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://bafeimao.github.io/tags/github/</link>
+      <link>https://vikingyou.club/tags/github/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/github/</guid>
+      <guid>https://vikingyou.club/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>图床</title>
-      <link>https://bafeimao.github.io/tags/%E5%9B%BE%E5%BA%8A/</link>
+      <link>https://vikingyou.club/tags/%E5%9B%BE%E5%BA%8A/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/%E5%9B%BE%E5%BA%8A/</guid>
+      <guid>https://vikingyou.club/tags/%E5%9B%BE%E5%BA%8A/</guid>
       <description></description>
     </item>
     
     <item>
       <title>图文</title>
-      <link>https://bafeimao.github.io/tags/%E5%9B%BE%E6%96%87/</link>
+      <link>https://vikingyou.club/tags/%E5%9B%BE%E6%96%87/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/%E5%9B%BE%E6%96%87/</guid>
+      <guid>https://vikingyou.club/tags/%E5%9B%BE%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>教程</title>
-      <link>https://bafeimao.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+      <link>https://vikingyou.club/tags/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://vikingyou.club/tags/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>新手</title>
-      <link>https://bafeimao.github.io/tags/%E6%96%B0%E6%89%8B/</link>
+      <link>https://vikingyou.club/tags/%E6%96%B0%E6%89%8B/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/tags/%E6%96%B0%E6%89%8B/</guid>
+      <guid>https://vikingyou.club/tags/%E6%96%B0%E6%89%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://vikingyou.club/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vikingyou.club/tags/first/</guid>
       <description></description>
     </item>
     

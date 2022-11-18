@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>JS on 芭菲猫的博客</title>
-    <link>https://bafeimao.github.io/tags/js/</link>
-    <description>Recent content in JS on 芭菲猫的博客</description>
+    <title>JS on 芭菲猫</title>
+    <link>https://vikingyou.club/tags/js/</link>
+    <description>Recent content in JS on 芭菲猫</description>
+    <image>
+      <url>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 22 May 2021 08:37:58 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2021 08:37:58 +0800</lastBuildDate><atom:link href="https://vikingyou.club/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChallengeARTX1</title>
-      <link>https://bafeimao.github.io/posts/challengeartx1/</link>
+      <link>https://vikingyou.club/posts/challengeartx1/</link>
       <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/challengeartx1/</guid>
-      <description>MDN练习随机生成笑话机以下是实现 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge,chrome=1&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width&amp;#34;&amp;gt; &amp;lt;title&amp;gt;笑话机&amp;lt;/title&amp;gt; &amp;lt;script src=&amp;#34;main.js&amp;#34; defer&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link href=&amp;#34;style.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;customname&amp;#34;&amp;gt;输入自</description>
+      <guid>https://vikingyou.club/posts/challengeartx1/</guid>
+      <description>MDN练习随机生成笑话机以下是实现 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge,chrome=1&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width&amp;#34;&amp;gt; &amp;lt;title&amp;gt;笑话机&amp;lt;/title&amp;gt; &amp;lt;script src=&amp;#34;main.js&amp;#34; defer&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link href=&amp;#34;style.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;customname&amp;#34;&amp;gt;输入自定义名字：&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;#34;customname&amp;#34; type=&amp;#34;text&amp;#34; placeholder=&amp;#34;李雷&amp;#34;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;metric&amp;#34;&amp;gt;公制&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;#34;metric&amp;#34; type=&amp;#34;radio&amp;#34; name=&amp;#34;measure&amp;#34; value=&amp;#34;metric&amp;#34; checked&amp;gt; &amp;lt;label for=&amp;#34;american&amp;#34;&amp;gt;美制&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;#34;american&amp;#34; type=&amp;#34;radio&amp;#34; name=&amp;#34;measure&amp;#34; value=&amp;#34;american&amp;#34;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;button class=&amp;#34;randomize&amp;#34;&amp;gt;生成随机笑话&amp;lt;/button&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!-- 鸣谢：Willy Aguirre 提供的测试代码 --&amp;gt; &amp;lt;p class=&amp;#34;story&amp;#34;&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; const customName = document.getElementById(&amp;#39;customname&amp;#39;); const randomize = document.querySelector(&amp;#39;.randomize&amp;#39;); const story = document.querySelector(&amp;#39;.story&amp;#39;); function randomValueFromArray(array) { return array[Math.</description>
     </item>
     
   </channel>

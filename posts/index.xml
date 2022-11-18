@@ -1,165 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 芭菲猫的博客</title>
-    <link>https://bafeimao.github.io/posts/</link>
-    <description>Recent content in Posts on 芭菲猫的博客</description>
+    <title>Posts on 芭菲猫</title>
+    <link>https://vikingyou.club/posts/</link>
+    <description>Recent content in Posts on 芭菲猫</description>
+    <image>
+      <url>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Nov 2021 21:08:32 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 21:08:32 +0800</lastBuildDate><atom:link href="https://vikingyou.club/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>11 16随笔</title>
-      <link>https://bafeimao.github.io/posts/11-16%E9%9A%8F%E7%AC%94/</link>
+      <link>https://vikingyou.club/posts/11-16%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Tue, 16 Nov 2021 21:08:32 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/11-16%E9%9A%8F%E7%AC%94/</guid>
-      <description>11月16随笔 哇，贼开心，刚刚洗澡时候才发现自己因为半个多月的折磨技术能力有了提升，可以着手尝试之前想入手但是不知从何下手学习的项目了，才反应过来，半个多月的疲惫加折磨都让我忘记了这回事，可以排计划学</description>
-    </item>
-    
-    <item>
-      <title>SQLtips</title>
-      <link>https://bafeimao.github.io/posts/sqltips/</link>
-      <pubDate>Sat, 25 Sep 2021 19:37:59 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/sqltips/</guid>
-      <description>char和varchar如何选择 原则 如果列中有要存储的数据长度差不多是一致的，则应该考虑用char；否则应该用varchar 如果列中的最大数据长度小于50Byte,则一般也考虑用char。 （当然，如果</description>
-    </item>
-    
-    <item>
-      <title>JavaScript_and_Java_Cookyourlasagna</title>
-      <link>https://bafeimao.github.io/posts/javascript_and_java_cookyourlasagna/</link>
-      <pubDate>Sun, 12 Sep 2021 08:19:37 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/javascript_and_java_cookyourlasagna/</guid>
-      <description>Java Introduction Java is a statically-typed language, which means that everything has a type at compile-time. Assigning a value to a name is referred to as defining a variable. A variable is defined by explicitly specifying its type.
-int explicitVar = 10; Updating a variable&amp;rsquo;s value is done through the = operator. Once defined, a variable&amp;rsquo;s type can never change.
-int count = 1; // Assign initial value count = 2; // Update to new value  // Compiler error when assigning different type // count = false; Java is an object-oriented language and requires all functions to be defined in a class.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript_and_Java_HelloWorld</title>
-      <link>https://bafeimao.github.io/posts/javascript_and_java_helloworld/</link>
-      <pubDate>Sun, 12 Sep 2021 08:15:22 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/javascript_and_java_helloworld/</guid>
-      <description>class Greeter { String getGreeting() { return &amp;#34;Hello, World!&amp;#34;; } } // // This is only a SKELETON file for the &amp;#39;Hello World&amp;#39; exercise. It&amp;#39;s been provided as a // convenience to get you started writing code faster. //  export function hello() { return &amp;#39;Hello, World!&amp;#39;; } </description>
+      <guid>https://vikingyou.club/posts/11-16%E9%9A%8F%E7%AC%94/</guid>
+      <description>11月16随笔 哇，贼开心，刚刚洗澡时候才发现自己因为半个多月的折磨技术能力有了提升，可以着手尝试之前想入手但是不知从何下手学习的项目了，才反应过来，半个多月的疲惫加折磨都让我忘记了这回事，可以排计划学习了，太棒了，从0到1的过程虽然很难熬，但是总算是入了个门，加油加油加油，这是最近半年让我最开心的事了，自己终于有能力做自己半年前不能做的事情了，加油。借着这个喜悦记下这个随笔，然后立个flag，今年结束之前把哪个项目学习完毕，自己实现一遍。巩固自己的技术。果然工作后提升自己只能自己去挤时间了，加油加油加油。我一定能做到自己现在看起来做不到的事情，然后抹消掉这个flag，再立另一个flag。</description>
     </item>
     
     <item>
       <title>0910随笔</title>
-      <link>https://bafeimao.github.io/posts/0910%E9%9A%8F%E7%AC%94/</link>
+      <link>https://vikingyou.club/posts/0910%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Fri, 10 Sep 2021 19:10:43 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/0910%E9%9A%8F%E7%AC%94/</guid>
-      <description>记录一下今天让我感动的事情 金老师和部长还有课长下周要去拜访客户，然后聊到招聘另一个开发的事情上，部长去把门关上了让我们发表自己的看法，金老师希望招一个应届生水平和我差不多的，我可以带一带，不希望高薪找</description>
+      <guid>https://vikingyou.club/posts/0910%E9%9A%8F%E7%AC%94/</guid>
+      <description>记录一下今天让我感动的事情
+金老师和部长还有课长下周要去拜访客户，然后聊到招聘另一个开发的事情上，部长去把门关上了让我们发表自己的看法，金老师希望招一个应届生水平和我差不多的，我可以带一带，不希望高薪找一个两三年的开发过来，可能对系统平台的熟悉度还没我高，而且工资是我的两三倍，我会产生落差然后离开团队另寻出路。我发表的观点是我最开始的初衷其实和钱关系不大，目的是能学到东西。其实这种工资差距无所谓的。部长说他招人给的定位是产品经理，能和客户讲清楚产品的来龙去脉，而且年龄也合适，我这个20岁的过去，人家不一定买账，况且我也没那个能力，金老师这个时候说如果招了一个各方面能力都比我强的，什么事都他揽了，我肯定还是什么也不会，这个真的非常感谢金老师对我的认可和站在我的角度去思考问题，这个让我非常感动，是对于我自己为人的认可，</description>
     </item>
     
     <item>
       <title>单点登录token与JWT介绍</title>
-      <link>https://bafeimao.github.io/posts/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95token%E4%B8%8Ejwt%E4%BB%8B%E7%BB%8D/</link>
+      <link>https://vikingyou.club/posts/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95token%E4%B8%8Ejwt%E4%BB%8B%E7%BB%8D/</link>
       <pubDate>Sun, 25 Jul 2021 12:25:34 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95token%E4%B8%8Ejwt%E4%BB%8B%E7%BB%8D/</guid>
-      <description>登录 登录 前端输入用户名密码 校验用户名密码 生成token 后端保存token（redis） 前端保存token 校验 前端请求时，带上token（放在header） 登录拦截器，校验token（到redis获取t</description>
+      <guid>https://vikingyou.club/posts/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95token%E4%B8%8Ejwt%E4%BB%8B%E7%BB%8D/</guid>
+      <description>登录 登录
+前端输入用户名密码 校验用户名密码 生成token 后端保存token（redis） 前端保存token 校验
+前端请求时，带上token（放在header）
+登录拦截器，校验token（到redis获取token）
+校验成功则继续后面的业务
+校验失败则回到登陆页面
+单点登陆系统 淘宝 支付宝
+A B C&amp;hellip;
+X：用户管理、登录、登录校验、退出登录
+token与JWT token+redis：token是无意义的
+JWT：token是有意义的，加密的，包含业务信息，一般是用户信息，可以被解出来
+&amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;com.auth0&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;java-jwt&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.5.0&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; 登录标识：就是令牌，就是token，就是一串唯一的字符串
+一般就管理类的接口（增删改）需要登录校验</description>
     </item>
     
     <item>
       <title>0722</title>
-      <link>https://bafeimao.github.io/posts/0722/</link>
+      <link>https://vikingyou.club/posts/0722/</link>
       <pubDate>Thu, 22 Jul 2021 20:41:53 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/0722/</guid>
-      <description>0722同事离职 小陈是和我一起进来的实习生，5月17和我一起入职，到今天两个多月了，这种同事好朋友离职的经验我是头一次经历，他是没和我提前说要离职的，今天突然发生的，下午我察觉到了一些异样那时候想到了</description>
-    </item>
-    
-    <item>
-      <title>7月6spring</title>
-      <link>https://bafeimao.github.io/posts/description/</link>
-      <pubDate>Tue, 06 Jul 2021 20:54:46 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/description/</guid>
-      <description>记录一次spring运行bug， 找了半天以为是自己代码有问题，到最后jps发现被占用了 解决方式是关闭掉所有运行的java程序命令是 taskkill /F /IM java.exe 然后就可以正常使用Idea运行程序了</description>
+      <guid>https://vikingyou.club/posts/0722/</guid>
+      <description>0722同事离职 小陈是和我一起进来的实习生，5月17和我一起入职，到今天两个多月了，这种同事好朋友离职的经验我是头一次经历，他是没和我提前说要离职的，今天突然发生的，下午我察觉到了一些异样那时候想到了，第一感觉是慌的，因为原本两个人的工作可能要一段时间压在一个人身上了。
+今晚上我想了一会最大可能的原因就是毕业时父母给贷款买了房子，离南京很近，房子成了某种枷锁或者引力，这事放在我身上我可能也老想着要不就回去吧，我房子都买在那里了，南京机会也不比苏州少，而且我还要帮忙还很久贷款，可能一直有一个声音在我脑海里劝说我回去吧回去吧。房子有时候既是一种福利又是一种枷锁，祝他仕途顺利。
+记一个小bug，关于wangeditor在vue里使用时如何在弹出框加载的问题，我用了个笨方法在外面定义了一个一次加载的值为真，然后第一次加载会把值改为假，这样就不会重复加载浪费资源，settimeout异步为了防止捕获不到弹出框新加载的信息，最终是解决了这个问题，可能实现方式比较low，以后发现有好办法继续更新</description>
     </item>
     
     <item>
       <title>随笔1</title>
-      <link>https://bafeimao.github.io/posts/%E9%9A%8F%E7%AC%941/</link>
+      <link>https://vikingyou.club/posts/%E9%9A%8F%E7%AC%941/</link>
       <pubDate>Fri, 28 May 2021 19:56:52 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/%E9%9A%8F%E7%AC%941/</guid>
-      <description>坐标34分钟 虽然已经预见到了这个结果，起码无愧于内心吧，蛮好，永远的教训，至于有什么想告诉以后的自己，起码可以和他说，你做了当时自己认为的对的事情，而且尽了你的最大努力，更可笑的是你还预见到了事情的发</description>
+      <guid>https://vikingyou.club/posts/%E9%9A%8F%E7%AC%941/</guid>
+      <description>坐标34分钟
+虽然已经预见到了这个结果，起码无愧于内心吧，蛮好，永远的教训，至于有什么想告诉以后的自己，起码可以和他说，你做了当时自己认为的对的事情，而且尽了你的最大努力，更可笑的是你还预见到了事情的发生，即便如此你也还是一如既往，现在的我挑不出什么做法的错误，但是我希望你下一次坚决避免此类事情发生，关于那个问题你也有了自己的体悟和答案，虽然我不知道未来的你现在是不是足够坚强依旧无私的帮助身边的人，但我觉得这些永远在帮助你磨练自己坚强的内心，人总是这么一次次成长，另外，这首现场依旧送给你，加油。不要迷茫。
+OK。翻篇，告一段落，开始新征程，该去努力完成心里高中小男孩的心愿了。</description>
     </item>
     
     <item>
       <title>ChallengeARTX1</title>
-      <link>https://bafeimao.github.io/posts/challengeartx1/</link>
+      <link>https://vikingyou.club/posts/challengeartx1/</link>
       <pubDate>Sat, 22 May 2021 08:37:58 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/challengeartx1/</guid>
-      <description>MDN练习随机生成笑话机以下是实现 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge,chrome=1&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width&amp;#34;&amp;gt; &amp;lt;title&amp;gt;笑话机&amp;lt;/title&amp;gt; &amp;lt;script src=&amp;#34;main.js&amp;#34; defer&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link href=&amp;#34;style.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;customname&amp;#34;&amp;gt;输入自</description>
-    </item>
-    
-    <item>
-      <title>JavaScriptES6新特性</title>
-      <link>https://bafeimao.github.io/posts/javascriptes6%E6%96%B0%E7%89%B9%E6%80%A7/</link>
-      <pubDate>Sat, 15 May 2021 20:09:25 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/javascriptes6%E6%96%B0%E7%89%B9%E6%80%A7/</guid>
-      <description>let和const命令 { let a=1; //let声明只在循环体内有效 var b =1; }</description>
-    </item>
-    
-    <item>
-      <title>宜搭</title>
-      <link>https://bafeimao.github.io/posts/%E5%AE%9C%E6%90%AD/</link>
-      <pubDate>Sat, 15 May 2021 08:06:34 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/%E5%AE%9C%E6%90%AD/</guid>
-      <description></description>
+      <guid>https://vikingyou.club/posts/challengeartx1/</guid>
+      <description>MDN练习随机生成笑话机以下是实现 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge,chrome=1&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width&amp;#34;&amp;gt; &amp;lt;title&amp;gt;笑话机&amp;lt;/title&amp;gt; &amp;lt;script src=&amp;#34;main.js&amp;#34; defer&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link href=&amp;#34;style.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;customname&amp;#34;&amp;gt;输入自定义名字：&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;#34;customname&amp;#34; type=&amp;#34;text&amp;#34; placeholder=&amp;#34;李雷&amp;#34;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;label for=&amp;#34;metric&amp;#34;&amp;gt;公制&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;#34;metric&amp;#34; type=&amp;#34;radio&amp;#34; name=&amp;#34;measure&amp;#34; value=&amp;#34;metric&amp;#34; checked&amp;gt; &amp;lt;label for=&amp;#34;american&amp;#34;&amp;gt;美制&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;#34;american&amp;#34; type=&amp;#34;radio&amp;#34; name=&amp;#34;measure&amp;#34; value=&amp;#34;american&amp;#34;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;button class=&amp;#34;randomize&amp;#34;&amp;gt;生成随机笑话&amp;lt;/button&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!-- 鸣谢：Willy Aguirre 提供的测试代码 --&amp;gt; &amp;lt;p class=&amp;#34;story&amp;#34;&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; const customName = document.getElementById(&amp;#39;customname&amp;#39;); const randomize = document.querySelector(&amp;#39;.randomize&amp;#39;); const story = document.querySelector(&amp;#39;.story&amp;#39;); function randomValueFromArray(array) { return array[Math.</description>
     </item>
     
     <item>
       <title>LinuxAction</title>
-      <link>https://bafeimao.github.io/posts/linuxaction/</link>
+      <link>https://vikingyou.club/posts/linuxaction/</link>
       <pubDate>Tue, 11 May 2021 09:58:43 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/linuxaction/</guid>
-      <description>Vim正常模式命令 i 插入 I 插入（位置在行首） a 插入（光标位置的后面） A 插入（位置在行摸） o 插入（位置在当前行的下一行，类似于回车） O 插入（位置在当前行的上一行） HJKL HL向左向右 JK向上向下 yy 复制一整行 3</description>
-    </item>
-    
-    <item>
-      <title>SQLNote</title>
-      <link>https://bafeimao.github.io/posts/sqlnote/</link>
-      <pubDate>Thu, 06 May 2021 15:04:54 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/sqlnote/</guid>
-      <description>这个文章是根据极客时间SQL必知必会课程所做的笔记，供自己复习使用，冲冲冲！ SQL语言按照功能划分成以下的四个部分： DDL，英文叫做 Data Definition Language，也就是数据定义语言，它用来定义我们的数据库对象</description>
-    </item>
-    
-    <item>
-      <title>SpringInAction</title>
-      <link>https://bafeimao.github.io/posts/springinaction/</link>
-      <pubDate>Thu, 06 May 2021 10:49:46 +0800</pubDate>
-      
-      <guid>https://bafeimao.github.io/posts/springinaction/</guid>
-      <description>记录自己的SpringInAction 第三章JPA例子踩坑及解决， 废话少说上图，方便以后自己查错复习 找了半天是自己的注解@ID不正确，包导错了，蛮憨批的一个错误，增加了自己阅读错误日志的经验一丢丢</description>
+      <guid>https://vikingyou.club/posts/linuxaction/</guid>
+      <description>Vim正常模式命令 i	插入 I	插入（位置在行首） a	插入（光标位置的后面） A	插入（位置在行摸） o	插入（位置在当前行的下一行，类似于回车） O	插入（位置在当前行的上一行） HJKL	HL向左向右	JK向上向下 yy	复制一整行 3yy复制当前位置下三行	p粘贴 y$	复制当前位置到结尾 dd	剪切一整行 d$	剪切当前位置到结尾 u	撤销操作可以多次撤销 Ctrl+r	重做（取消撤销） x	单个字符删除 :set nu	显示行数 :set nonu	取消显示行号 11G	移动到11行 g文本第一行	G文本最后一行 ^	行首	$	行末 Vim的命令模式 :w /root/a.txt	保存到此目录下 :q!	不保存退出 :!ifcfg	临时查看ip地址 /x	查找字符x	n查找下一个	N查找上一个 :%s/old/new/g	替换	s是针对光标一行，%s是整个文档 /g global全局多次替换（一次替换不用加g，多次替换要加） vim的可视模式 v	字符可视模式 V	行可视模式 Ctrl+v	块可视模式 用户管理常用命令 useradd	新建用户 userdel	删除用户 passwd	修改用户密码 usermod	修改用户属性 chage	修改用户属性 </description>
     </item>
     
     <item>
       <title>从零开始搭建GitHub&#43;HuGo&#43;PicGo图床教程</title>
-      <link>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</link>
+      <link>https://vikingyou.club/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</link>
       <pubDate>Tue, 04 May 2021 11:46:16 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</guid>
-      <description>[toc] 安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装 下载.exe结尾的文件，这里是PicGo-Setup-2.2.2.exe 安装后可能会提示更新，但</description>
+      <guid>https://vikingyou.club/posts/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/</guid>
+      <description>[toc]
+安装PicGo 打开网址 向下寻找到稳定版本2.2.2，目前是2.2.2，以后更新自行选择更高稳定版本安装
+下载.exe结尾的文件，这里是PicGo-Setup-2.2.2.exe
+安装后可能会提示更新，但因为是beta版所以我们选择不更新
+下载完成后打开exe文件安装，选择全部用户和单独安装都可以，下一步直到安装结束
+打开PicGo显示如下界面
+创建Github账号 打开网址 教程网址 如图所示操作
+起的名字就是网址地址例如我的是bafeimao则网址地址是bafeimao.github.io以此类推
+创建仓库
+然后在github个人设置页面，创建一个访问令牌
+需要输入密码则输入密码
+只勾选第一个repo拉到最下面
+点击Generate new token按照下图配置创建即可。
+保存生成的密钥
+配置PicGo 第一个是用户名/仓库名
+第二个是分支名，一般默认设置为main
+第三个是Token，就是刚刚拿到的密钥
+后面两个可写可不写，建议存储路径写一个，把图片放到一个地方。
+点击“确定”，并设置为“默认图床”
+上传图片查看github仓库是否有记录
+配置Typora+PicGo Typora
+下载安装Typora
+打开Typora 左上角 文件-&amp;gt;偏好设置-&amp;gt;图像
+需要勾上插入时自动转义图片URL！
+建议都不要勾选，根据使用情况发现手动上传好用一点emmm，可能过段时间就好了。
+使用 设置完成后，就可以很方便地使用了。 拖拽，在文件夹内拖拽图片到Typora编辑界面。 插入，快捷键Ctrl+Shift+I，调出插入图片的功能。 复制，使用截图功能后，直接粘贴到Typora编辑界面内。 拖拽和插入都是自动将图片上传至图床。但是复制需要手动点击上传 安装WindowsTerminal 打开Microsoft Store,搜索terminal并安装
+启动后在任务栏右键选择固定到任务栏，以后会常用到，然后关闭窗口右键选择使用管理员模式打开
+Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy RemoteSigned -Force 复制粘贴后回车执行
+然后是下一条命令
+Install-Module posh-git -Scope CurrentUser -AllowPrerelease -Force 键入后回车
+如果报红出错则键入这个命令再键入上一条命令
+Install-Module PowerShellGet -Force -SkipPublisherCheck 之后是下面两条命令配置每次打开终端执行导入git
+Import-Module posh-git Add-PoshGitToProfile -AllHosts 使用命令</description>
     </item>
     
     <item>
       <title>HelloWorld</title>
-      <link>https://bafeimao.github.io/posts/helloworld/</link>
+      <link>https://vikingyou.club/posts/helloworld/</link>
       <pubDate>Tue, 04 May 2021 08:25:02 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/helloworld/</guid>
+      <guid>https://vikingyou.club/posts/helloworld/</guid>
       <description>HelloWorld 记录自己的第一篇博客成功搭建</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://vikingyou.club/posts/normal/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vikingyou.club/posts/normal/</guid>
+      <description>Desc Text.</description>
     </item>
     
   </channel>

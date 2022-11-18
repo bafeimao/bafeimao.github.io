@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Linux on 芭菲猫的博客</title>
-    <link>https://bafeimao.github.io/tags/linux/</link>
-    <description>Recent content in Linux on 芭菲猫的博客</description>
+    <title>Linux on 芭菲猫</title>
+    <link>https://vikingyou.club/tags/linux/</link>
+    <description>Recent content in Linux on 芭菲猫</description>
+    <image>
+      <url>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vikingyou.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 11 May 2021 09:58:43 +0800</lastBuildDate><atom:link href="https://bafeimao.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 09:58:43 +0800</lastBuildDate><atom:link href="https://vikingyou.club/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LinuxAction</title>
-      <link>https://bafeimao.github.io/posts/linuxaction/</link>
+      <link>https://vikingyou.club/posts/linuxaction/</link>
       <pubDate>Tue, 11 May 2021 09:58:43 +0800</pubDate>
       
-      <guid>https://bafeimao.github.io/posts/linuxaction/</guid>
-      <description>Vim正常模式命令 i 插入 I 插入（位置在行首） a 插入（光标位置的后面） A 插入（位置在行摸） o 插入（位置在当前行的下一行，类似于回车） O 插入（位置在当前行的上一行） HJKL HL向左向右 JK向上向下 yy 复制一整行 3</description>
+      <guid>https://vikingyou.club/posts/linuxaction/</guid>
+      <description>Vim正常模式命令 i	插入 I	插入（位置在行首） a	插入（光标位置的后面） A	插入（位置在行摸） o	插入（位置在当前行的下一行，类似于回车） O	插入（位置在当前行的上一行） HJKL	HL向左向右	JK向上向下 yy	复制一整行 3yy复制当前位置下三行	p粘贴 y$	复制当前位置到结尾 dd	剪切一整行 d$	剪切当前位置到结尾 u	撤销操作可以多次撤销 Ctrl+r	重做（取消撤销） x	单个字符删除 :set nu	显示行数 :set nonu	取消显示行号 11G	移动到11行 g文本第一行	G文本最后一行 ^	行首	$	行末 Vim的命令模式 :w /root/a.txt	保存到此目录下 :q!	不保存退出 :!ifcfg	临时查看ip地址 /x	查找字符x	n查找下一个	N查找上一个 :%s/old/new/g	替换	s是针对光标一行，%s是整个文档 /g global全局多次替换（一次替换不用加g，多次替换要加） vim的可视模式 v	字符可视模式 V	行可视模式 Ctrl+v	块可视模式 用户管理常用命令 useradd	新建用户 userdel	删除用户 passwd	修改用户密码 usermod	修改用户属性 chage	修改用户属性 </description>
     </item>
     
   </channel>
